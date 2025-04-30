@@ -1,3 +1,1 @@
 This is the second file.
-There is more loading...
-Hope you will appreciate it.
