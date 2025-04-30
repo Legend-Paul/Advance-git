@@ -1,1 +1,1 @@
-Just training on how to use git on advanced level.
+This is how to use git on advanced level.
